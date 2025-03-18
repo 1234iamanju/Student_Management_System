@@ -52,7 +52,7 @@ Simply open `index.html` in your browser — no server required!
 You can include screenshots of the interface here:
 
 
-[![Student Admission System Preview](./screenshots/screenshot1.png)](https://github.com/1234iamanju/Student_Management_System/blob/main/screenshot1.png.png?raw=true)
+https://github.com/1234iamanju/Student_Management_System/blob/main/screenshot1.png.png?raw=true
 
 ---
 
