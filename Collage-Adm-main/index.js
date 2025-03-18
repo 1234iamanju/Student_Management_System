@@ -19,7 +19,7 @@ function deleteStu(index) {
         if (stuDetails == null) {
             stuArr = [];
 
-        }
+    }
         else {
             stuArr = JSON.parse(stuDetails);
 
