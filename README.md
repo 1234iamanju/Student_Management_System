@@ -18,8 +18,14 @@ Ideal for small institutes or as a learning project to understand DOM manipulati
 
 ## 📁 Folder Structure
 
-Collage-Adm-main/ │ ├── index.html → Main HTML structure ├── style.css → Stylesheet for the UI ├── script.js → Functional logic (JavaScript) └── README.md → Project documentation
-
+```
+Collage-Adm-main/
+│
+├── index.html         → Main HTML structure
+├── style.css          → Stylesheet for the UI
+├── script.js          → Functional logic (JavaScript)
+└── README.md          → Project documentation
+```
 
 ---
 
@@ -34,25 +40,45 @@ Collage-Adm-main/ │ ├── index.html → Main HTML structure ├── sty
 ## 💻 How to Use
 
 1. **Download or Clone the Repository**
-git clone https://github.com/your-username/Collage-Adm-main.git
+   ```
+   git clone https://github.com/your-username/Collage-Adm-main.git
 
 
-2. **Navigate into the Folder**
-
+3. **Navigate into the Folder**
+   ```
     cd Collage-Adm-main
 
 
-3. **Run the Project**  
-Simply open `index.html` in your browser — no server required!
+4. **Run the Project**
+   ```
+   Simply open `index.html` in your browser — no server required!
+
+
+
+---
+
+## 📸 Screenshots
+
+### 🔹 Home Page UI:
+
+
+![screenshot1 png](https://github.com/user-attachments/assets/3276dd60-4929-408e-a463-df875b2abc1d)
+
+---
+
+---
+
+## 📋 How to Use
+- Add Student: Enter student name and roll number in the form and click "Add".
+- Mark Attendance: Select Present/Absent for each student in the list.
+- Update/Delete: Modify or remove student records as needed.
+- Local Storage: Attendance data is saved locally in your browser.
 
 ---
 
 
 
-You can include screenshots of the interface here:
 
-
-https://github.com/1234iamanju/Student_Management_System/blob/main/screenshot1.png.png?raw=true
 
 ---
 
@@ -67,6 +93,12 @@ https://github.com/1234iamanju/Student_Management_System/blob/main/screenshot1.p
 ---
 
 
+---
+## 🙌 Contributing
+- Contributions are welcome and appreciated!
+- Feel free to fork the repository and submit a pull request.
+
+---
 
 ## 👨‍💻 Developed by
 
